@@ -1,0 +1,109 @@
+
+                           
+
+Materia:
+DESARROLLO DE APLICACIONES PARA DISPOSITIVOS MÓVILES
+
+TÍTULO DEL TRABAJO
+Proyecto Final Memoria Ágil. 
+
+Carrera:
+Ing. En Sistemas Computacionales 
+
+Integrantes del equipo:
+Gonzalez Espinoza Osvaldo
+Gonzalez Hernández Ivonne Lizbeth
+Montoro Tadeo David
+Ramírez Martínez Angely Yazmin
+
+Profesor:
+ING PEÑA LÓPEZ MIGUEL ÁNGE
+
+
+
+
+
+LEÓN, GUANAJUATO	Periodo: Enero-Junio 2019
+ 
+Introducción.
+A continuación, se presenta la documentación del proyecto realizado en la materia desarrollo de aplicaciones para dispositivos móviles, la cual nos enfocamos al mercado de los videojuegos ya que nos pareció interesante, el proyecto consta de 4 juegos, los cuales tienen ciertas dificultades que pondrán a prueba nuestra habilidad para poder pensar de manera ágil para poder concluirlos con éxito. 
+ 
+Justificación.
+En base a la demande que tienen los videojuegos en la actualidad, por el hecho de poder pasar un rato agradable y de relajación, en el 2018 en México 68.7 millones personas juegan videojuegos y el 70% de ellas lo hace a través de un smartphone, lo cual nos indica que siempre estamos buscando la forma de poder entretenernos, de manera sencilla, por eso es que decidimos realizar esta aplicación, ya que te ayudara a poder entretenerte un rato y a la vez podrás desarrollar una mente mas ágil, y de esta forma no estarás perdiendo el tiempo.
+
+Objetivo General.
+Desarrollar una aplicación móvil la cual contenga diversos juegos que te ayuden a agilizar tu mente.
+Objetivos específicos.
+Realizar 4 videojuegos para la parte de prueba de la aplicación.
+Poder aplicar los conocimientos básicos de la programación en Android Studio.
+Desarrollar un producto que sea para todo tipo de usuarios.
+
+Segmento al mercado que va dirigido.
+Nuestra aplicación está basada en personas de todas las edades (niños, adultos y adultos mayores) ya que se basa por niveles de dificultad para poder entender su mecanismo.
+Competidores en el mercado.
+•	Lumosity
+•	CogniFit Brain Fitness
+•	Personal Zen
+•	Brain Trainer Special
+•	Happify
+•	Fit Brains Trainer
+Estructura orgánica del equipo.
+•	Cada integrante del equipo realizo un juego para agilizar la mente.
+•	Se propusieron las propuestas de cada uno para ver que no se repitiera alguna idea, o brindar más ideas de las que se tenían.
+•	Una vez que cada uno sabia el tema de su juego, se llevo acabo el desarrollo de estas.
+•	Una vez terminadas se opto por implementar un menú para poder acceder a esto juegos, de realizo una lluvia de ideas en cuanto el diseño y el cómo se podía realizar, al final se voto por una y todos nos involucramos directamente con el menú para poderlo desarrollar.
+
+Tiempos y costos de desarrollo.
+Debido a que la aplicación se realizo sin fines de lucro, el costo solo fue en el tiempo que le invertimos como tal a la investigación de como poder realizar tal proyecto y el que nos llevó al desarrollarla.
+Pero en tiempos, se invirtió 3 semanas investigar el cómo se podía desarrollar, y conforme se iba investigando se iba implementando.
+Retorno de inversión.
+Por el momento no se obtuvo ningún retorno de inversión.
+Arquitectura Tecnológica y de Desarrollo.
+Aplicaciones móviles autocontenidas
+En este tipo de aplicaciones el contenido es estático, sus imágenes, su información, sus menús, casi nunca cambia o rara vez lo hace. Esto es debido a que todo su contenido se encuentra autocontenido dentro de la misma aplicación, no necesita valerse de una herramienta o un servicio para funcionar.
+Este tipo de aplicaciones son del tipo nativo, debido a que este brinda una seria de herramientas y posibilidades a la hora de desarrollar la aplicación móvil de este tipo, un ejemplo de este tipo de aplicaciones seria por ejemplo una calculadora desarrolla para ya sea para Android, iOS, Windows Phone, entre otros; la aplicación no tiene necesidad de cambiar los números debido a que los números son los mismos siempre, la información puede ser suministrada a través de una manual en alguna función o opción del menú, y si necesita brindar herramientas como tema puede predeterminar colores tamaños y demás cosas al respecto.
+
+Ventajas
+•	Su desarrollo puede resultar sencillo.
+•	No hay que hacer gastos en lo que son servicios de hosting, bases de datos, entre otros.
+ 
+
+
+Desventajas
+•	Si un día decide actualizar la información en dicha aplicación, debe compilar el código nuevamente y subirla a la plataforma la cual estaba siendo distribuida.
+•	Si la información que es utilizada por la aplicación es demasiada, puede ser que la aplicación necesite cambios periódicos lo que podría volverla inviable.
+
+ 
+Prototipo Funcional.
+El primer juego es un famoso gatito, el cual compites contra alguien para poder a completar 3 seguidas, y de esta forma te pone a pensar en planear una estrategia corta para poder ejecutarla porque a cada turno las posibilidades son menores. 
+
+El segundo es un quiz de conocimientos, el cual te va a dar información cultural en cuanto a sus preguntas y tu tienes que seleccionar la respuesta correcta, así de esta forma si desconocías, aprendes.
+           
+El tercero es un juego de adivinar un numero dentro de un rango dado de dos números, el cual consta conciertas cantidades de oportunidades para adivinar, y él te dará solo dos pistas, si es mayor al número que escribiste o es menor, y de esta forma deveras encontrar el número. 
+
+                                 
+
+  
+Estrategia de inserción en el mercado.
+Nuestra aplicación está basada en personas de todas las edades, ya que se elaboró por niveles de dificultad para poder entender su mecanismo.
+Es una aplicación que está integrada por 4 distintos juegos, pero cada uno mejora la concentración y disminuye el estrés de los usuarios.
+Los beneficios de este juego es poder trabajar en la memoria de cada usuario, mejorar la capacidad de observación, ayudan a incrementar el nivel de concentración, mejora la perseverancia, desarrollan la creatividad, reducen la ansiedad y eliminan el estrés.
+Gracias a esto nos ayuda a ponernos en buenos lugares en el mercado de los juegos mentales, ya que no solo es un juego si no una ayuda para mejorar tu salud mental.
+Una de las estrategias, es ponernos bajo demanda en la mayoría de las redes sociales, así como conseguir promovernos por varios usuarios reconocidos, ampliando el nivel venta de la aplicación, para el proceso de adaptación, este tipo de estrategia es imprescindible dada la facilidad y velocidad con la que se puede obtener una primera impresión en determinado tiempo.
+Otra de las estrategias a utilizar, darnos a conocer mediante flayers, revistas y anuncios, esto para que el público que no tenga acceso a las redes sociales nos conozca cómo no solo un juego, si no una aplicación con alto rendimiento de aprendizaje
+Análisis de riesgos
+Alguno de los riegos, es que para varias personas pueden llegar a ser aburridos por el nivel de dificultad, para otros el tipo de juego suele no gustarles, gracias a ellos disminuye el nivel de atención y percepción de la aplicación.
+Puede ocasionar trastornos, generando sueño sin que el usuario lo note, o adicción al mismo.
+El nivel exigencia de la audiencia puede ser mayor, ya que la competencia da buenos gráficos y mayor satisfacción en cada juego, pero claro todo esto puede variar dependiendo de la aceptación de cada usuario.
+ 
+Conclusiones. 
+Montoro Tadeo David
+Al igual que los demás músculos del cuerpo, el cerebro necesita una constante atención, por lo cual creo que esta aplicación servirá para generar y mantener habilidades como la memoria, agilidad, atención, orientación, lógica, entre otras, con un estilo practico y sencillo.
+
+González Espinoza Osvaldo
+Puedo concluir este proyecto comentado que realmente desconocía la mayor parte de la programación en andriod y todo fue conocimiento nuevo, el proyecto me agrado ya que siento que se le puede dar un uso muy seguido por todo lo mencionado anteriormente.
+Gonzalez Hernández Ivonne Lizbeth
+El juego es un medio perfecto para propiciar el enriquecimiento personal en las relaciones con los demás, pues muchos juegos constituyen un espacio de diálogo que permite comentar con los participantes las acciones, vistas desde el punto de vista de técnicas o estrategias, que dan cumplimiento a la actividad y de hecho a los objetivos previstos; son un medio perfecto para ejercitar la agilidad matemática y mental, basando la actividad en la memorización de datos o propiciando el desarrollo de sus capacidades cognitivas.
+
+Ramírez Martínez Angely Yazmin
+Todos estos juegos tienen un propósito: Hacer que tu mente piense mejor y más rápido. Todos podemos lograr tener una mente más agilizada. pero tenemos que hacer ejercicios mentales para que este siempre este siempre esté funcionando.
